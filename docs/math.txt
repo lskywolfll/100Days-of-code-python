@@ -1,0 +1,15 @@
+PEMDAS
+Parentecis
+Exponentes(Potencias)
+Multiplicacino
+Division
+Suma
+Resta
+
+PAPOMUDAS
+Parentecis - PA
+Potencia - PO
+Multiplcacion - MU
+Division - D
+Adicion - A
+Sustraccion - S
