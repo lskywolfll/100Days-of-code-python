@@ -2,6 +2,7 @@
 def calculator_tip(bill,percentage,num_people):
     result = (bill / num_people) * percentage
     result = round(result, 2)
+    result = "{:.2f}".format(result)
 
     print(f"Each person should py: ${result}")
 
