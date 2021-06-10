@@ -1,7 +1,7 @@
 PEMDAS
 Parentecis
 Exponentes(Potencias)
-Multiplicacion
+Multiplication
 Division
 Suma
 Resta
