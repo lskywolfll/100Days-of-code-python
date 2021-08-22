@@ -13,8 +13,8 @@ def caesar(start_text, shift_amount, cipher_direction):
     
     for letter in start_text:
         position = alphabet.index(letter)
-        position += shift_amount
-        end_text += alphabet[position]
+        new_position = position + shift_amount
+        end_text += alphabet[new_position]
     
     print(f"Here's the {cipher_direction} result: {end_text}")
 
