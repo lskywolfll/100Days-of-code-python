@@ -15,7 +15,7 @@ def find_highest_bidder(bidding_record: dict):
             highest_bid = price
             winner = name
 
-    print(f"The winner is {winner} with a bid of ${highest_bid}.")
+    print(f"The winner is {winner} with a bid of ${highest_bid}.") 
 
 
 print(logo)
